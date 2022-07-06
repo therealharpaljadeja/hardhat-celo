@@ -1,4 +1,4 @@
-# hardhat-example-plugin
+# hardhat-celo-plugin
 
 Hardhat plugin for Celo Developers
 
