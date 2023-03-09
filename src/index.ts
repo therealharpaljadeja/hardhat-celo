@@ -15,7 +15,7 @@ extendConfig(
 
     config.etherscan.customChains.push({
       network: "celo",
-      chainId: 44220,
+      chainId: 42220,
       urls: {
         apiURL: "https://api.celoscan.io/api",
         browserURL: "https://celoscan.io",
