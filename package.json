@@ -1,6 +1,6 @@
 {
   "name": "hardhat-celo",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Hardhat plugin for Celo",
   "repository": "https://github.com/therealharpaljadeja/hardhat-celo",
   "author": "Harpalsinh Jadeja",
