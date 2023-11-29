@@ -2,6 +2,9 @@
 
 Hardhat plugin for Celo Developers.
 
+> **Note**
+> 🚨 This package is no longer needed check [here](https://docs.celo.org/developer/verify/hardhat)
+
 ## Features
 
 CeloScan Contract Verification
